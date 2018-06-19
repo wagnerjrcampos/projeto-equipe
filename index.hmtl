@@ -1,0 +1,10 @@
+<html>
+<head>
+	<title>index</title>
+</head>
+<body>
+	<h1>pagina inicia</h1>
+	<p><a href="serviços.html">serviços</a></p>
+	<p><a href="contato.html">contato</a></p>
+</body>
+</html>
